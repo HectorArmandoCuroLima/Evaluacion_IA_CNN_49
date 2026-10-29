@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Datos CIFAR-10 descargados
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+
+# Archivos temporales
+.DS_Store
+Thumbs.db

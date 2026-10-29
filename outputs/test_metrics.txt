@@ -1,0 +1,18 @@
+EVALUACIÓN FINAL CNN - CIFAR-10
+Semilla: 49
+Época seleccionada: 10
+Precisión de validación: 75.38%
+Pérdida de test: 0.700972
+Precisión de test: 75.3100%
+
+Precisión por clase:
+avion: 79.80%
+automovil: 88.00%
+ave: 73.30%
+gato: 39.00%
+ciervo: 68.60%
+perro: 72.50%
+rana: 79.80%
+caballo: 86.10%
+barco: 80.00%
+camion: 86.00%
